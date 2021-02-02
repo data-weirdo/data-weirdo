@@ -6,7 +6,7 @@
 - B.S in Statistics, Sungkyunkwan University (2014.03~2021.02)  
 
 ### :running: Experience  
-- Research Intership at Pharmacoepidemiology Lab, SKKU (2018.07~2018.08)  
+- Research Internship at Pharmacoepidemiology Lab, SKKU (2018.07~2018.08)  
 - Internship at Data Science Team, Socar (2019.07~2019.09)  
 - Internship at High-Frequency Trading Team, B-brick (2019.12~2020.02)  
 
