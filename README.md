@@ -11,7 +11,8 @@
 - Internship at High-Frequency Trading Team, B-brick (2019.12~2020.02)  
 
 ### :boom: Interests  
-- Deep Learning, Graph/Network, Reinforcement Learning  
+- Healthcare, Biochemistry, Network  
+- ML/DL, Graph Network, Reinforcement Learning  
 
 <!--
 **data-weirdo/data-weirdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
