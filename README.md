@@ -12,7 +12,7 @@
 
 ### :boom: Interests  
 - Healthcare, Biochemistry, Network  
-- ML/DL, Graph Network, Reinforcement Learning  
+- AI/ML, Graph Network  
 
 <!--
 **data-weirdo/data-weirdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
